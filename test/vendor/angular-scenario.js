@@ -1,0 +1,1 @@
+../../app/scripts/vendor/angular-scenario/angular-scenario.js
