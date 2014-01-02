@@ -1,7 +1,7 @@
 'use strict';
 
 var app = angular.module('guthub',
-    ['guthub.directives', 'guthub.services']);
+    ['guthub.directives', 'guthub.services', 'ngRoute']);
 
 app.config(['$routeProvider', function($routeProvider) {
     $routeProvider.
